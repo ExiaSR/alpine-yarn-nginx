@@ -5,13 +5,13 @@ Latest version:
 
 Item | Version
 ------- | -----
-Node | v8.11.4
+Node | v8.12.0
 Npm | v5.6.0
-Yarn | v1.9.4
+Yarn | v1.10.1
 Nginx | v1.15
 
 ## Supported tags
-* `8.11.4`, `latest` [(Dockerfile)](./Dockerfile)
+* `8.12.0`, `latest` [(Dockerfile)](./Dockerfile)
 * `8.9.4` [(Dockerfile)](https://github.com/ExiaSR/alpine-yarn-nginx/blob/8.9.4/Dockerfile)
 * `7.9.4` [(Dockerfile)](https://github.com/ExiaSR/alpine-yarn-nginx/blob/7.9.4/Dockerfile)
 
